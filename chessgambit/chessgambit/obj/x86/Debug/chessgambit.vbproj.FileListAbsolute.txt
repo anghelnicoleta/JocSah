@@ -1,0 +1,20 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.GameForm.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\chessgambit.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Nikole\MPV\chessgambit\chessgambit\bin\Debug\chessgambit.exe
+E:\Nikole\MPV\chessgambit\chessgambit\bin\Debug\chessgambit.pdb
+E:\Nikole\MPV\chessgambit\chessgambit\bin\Debug\chessgambit.xml
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.vbproj.GenerateResource.Cache
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.exe
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.xml
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.pdb
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.GameForm.resources
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.MainForm.resources
+E:\Nikole\MPV\chessgambit\chessgambit\obj\x86\Debug\chessgambit.Resources.resources
